@@ -80,6 +80,7 @@ For every problem, I focus on:
 | [0001-two-sum](https://github.com/AFaa-161/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AFaa-161/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/AFaa-161/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/AFaa-161/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AFaa-161/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/AFaa-161/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +106,5 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/AFaa-161/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/AFaa-161/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
