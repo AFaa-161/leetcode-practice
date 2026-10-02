@@ -76,6 +76,7 @@ For every problem, I focus on:
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/AFaa-161/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AFaa-161/leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,8 +144,17 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AFaa-161/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AFaa-161/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
