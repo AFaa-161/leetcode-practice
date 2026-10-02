@@ -76,6 +76,7 @@ For every problem, I focus on:
 | [0036-valid-sudoku](https://github.com/AFaa-161/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/AFaa-161/leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AFaa-161/leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/AFaa-161/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AFaa-161/leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
@@ -147,6 +148,7 @@ For every problem, I focus on:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AFaa-161/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/AFaa-161/leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AFaa-161/leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AFaa-161/leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AFaa-161/leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
