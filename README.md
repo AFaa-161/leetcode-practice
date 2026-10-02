@@ -75,6 +75,7 @@ For every problem, I focus on:
 | [0001-two-sum](https://github.com/AFaa-161/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/AFaa-161/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/AFaa-161/leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/AFaa-161/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AFaa-161/leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
@@ -85,6 +86,7 @@ For every problem, I focus on:
 | [0003-longest-substring-without-repeating-characters](https://github.com/AFaa-161/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/AFaa-161/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/AFaa-161/leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/AFaa-161/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AFaa-161/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AFaa-161/leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -164,4 +166,8 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/AFaa-161/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AFaa-161/leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
