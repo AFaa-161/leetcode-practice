@@ -94,6 +94,7 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AFaa-161/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/AFaa-161/leetcode-practice/tree/main/0007-reverse-integer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
