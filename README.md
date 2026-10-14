@@ -117,6 +117,7 @@ For every problem, I focus on:
 | [0005-longest-palindromic-substring](https://github.com/AFaa-161/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/AFaa-161/leetcode-practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/AFaa-161/leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AFaa-161/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -216,4 +217,12 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
