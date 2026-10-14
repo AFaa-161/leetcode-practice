@@ -83,6 +83,7 @@ For every problem, I focus on:
 | [0217-contains-duplicate](https://github.com/AFaa-161/leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AFaa-161/leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
+| [0994-rotting-oranges](https://github.com/AFaa-161/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/AFaa-161/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
+| [0994-rotting-oranges](https://github.com/AFaa-161/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ For every problem, I focus on:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/AFaa-161/leetcode-practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
