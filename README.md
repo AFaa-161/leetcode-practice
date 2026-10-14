@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems, focusing on improvin
 
 - C
 - Python
+- Java
 
 ## 📚 Topics Covered
 
