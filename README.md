@@ -115,6 +115,7 @@ For every problem, I focus on:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AFaa-161/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/AFaa-161/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/AFaa-161/leetcode-practice/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/AFaa-161/leetcode-practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
