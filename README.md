@@ -105,6 +105,7 @@ For every problem, I focus on:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AFaa-161/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/AFaa-161/leetcode-practice/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0009-palindrome-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
