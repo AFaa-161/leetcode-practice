@@ -127,6 +127,7 @@ For every problem, I focus on:
 | [0013-roman-to-integer](https://github.com/AFaa-161/leetcode-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/AFaa-161/leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AFaa-161/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -175,6 +176,7 @@ For every problem, I focus on:
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AFaa-161/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/AFaa-161/leetcode-practice/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0518-coin-change-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0518-coin-change-ii/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +237,5 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
