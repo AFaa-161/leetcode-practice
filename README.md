@@ -113,6 +113,7 @@ For every problem, I focus on:
 | [0009-palindrome-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/AFaa-161/leetcode-practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/AFaa-161/leetcode-practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/AFaa-161/leetcode-practice/tree/main/0043-multiply-strings/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ For every problem, I focus on:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0043-multiply-strings](https://github.com/AFaa-161/leetcode-practice/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/AFaa-161/leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AFaa-161/leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -257,4 +259,8 @@ For every problem, I focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AFaa-161/leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/AFaa-161/leetcode-practice/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
