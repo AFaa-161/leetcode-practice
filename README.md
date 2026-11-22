@@ -210,10 +210,12 @@ For every problem, I focus on:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ For every problem, I focus on:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -238,4 +241,8 @@ For every problem, I focus on:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AFaa-161/leetcode-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
