@@ -78,6 +78,7 @@ For every problem, I focus on:
 | [0015-3sum](https://github.com/AFaa-161/leetcode-practice/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/AFaa-161/leetcode-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/AFaa-161/leetcode-practice/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/AFaa-161/leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/AFaa-161/leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AFaa-161/leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -234,6 +235,7 @@ For every problem, I focus on:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AFaa-161/leetcode-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/AFaa-161/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AFaa-161/leetcode-practice/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AFaa-161/leetcode-practice/tree/main/0040-combination-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
